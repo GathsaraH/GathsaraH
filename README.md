@@ -61,11 +61,12 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
 </div>
 
 <div align="center" 
+
 [![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
+
 </div>
 
 <div align="center" 
