@@ -36,6 +36,7 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
+<div align="center" 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -61,9 +62,8 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
+</div>
 
-
----
 [![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
 
 <i>Follow me around the web:</i><br>
