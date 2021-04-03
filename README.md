@@ -64,8 +64,11 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 
 </div>
 
+<div align="center" 
 [![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
+</div>
 
+<div align="center" 
 <i>Follow me around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
@@ -73,6 +76,7 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
   <a target="_blank" href="https://www.facebook.com/gathsaraumesh.kumara">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
   <a target="_blank" href="https://open.spotify.com/">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/gathsarah">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
+  </div>
 
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
