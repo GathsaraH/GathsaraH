@@ -64,9 +64,7 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 </div>
 
 <div align="center" 
-
 [![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
-
 </div>
 
 <div align="center" 
