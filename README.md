@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
@@ -6,28 +6,45 @@
 
 <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0076.gif" border="0" alt="animated-hello-image-0076" /></a>
 
+</div>-->
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Gathsara+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Proficient+with+React.js+and+Nest.js;Skilled+in+DevOps+and+Microservices;3%2B+years+of+industry+experience;Constantly+learning+and+growing)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a><br>
-or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
+### Welcome to my GitHub profile! 👋
 
-<i>Happy Coding!</i> 😊
+Feel free to explore, clone or fork projects, and contribute via issues or PRs. Your insights can help make these projects better. 
+
+#### 💬 Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a> or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
+#### 🎯 Keep Coding, Keep Exploring! 😊
+
 
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+
 <a href="">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GathsaraH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GathsaraH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
+
+</br>
+</br>
+
+<div>
+  
+### 🔥 &nbsp; My Stats 
+
+<!--Streak-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GathsaraH&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 </br>
 </br>
 
@@ -67,22 +84,13 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 [![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
 </div>
 
-<div align="center" 
-<i>Follow me around the web:</i><br>
+<div>
+### 🔭 &nbsp;Get in Touch
 
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/gathsaraumesh/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/gathsaraumesh.kumara">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://open.spotify.com/">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-  <a target="_blank" href="https://dev.to/gathsarah">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-  </div>
-
-<a href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/gathsaraumesh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/gathsaraumesh.kumara" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://open.spotify.com/user/wubozelho89bszyvxjgvhunr5?si=29LJlW59SBCOdGvcj79ruQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/gathsarah" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+<!--- <a href="https://www.instagram.com/">Instagram</a> 📷 -->
+<a href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/">Facebook</a> 👤
+<a href="https://www.linkedin.com/in/gathsara-umesh/">LinkedIn</a> 💼
+<a href="mailto:umeshgathsara@gmail.com">E-mail</a> 📧
 </div>
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
