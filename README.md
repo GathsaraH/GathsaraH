@@ -1,13 +1,3 @@
-<!--<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<div align="center" width="50">
-
-<a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0076.gif" border="0" alt="animated-hello-image-0076" /></a>
-
-</div>-->
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&center=true&width=435&lines=+++++++++++++++++Hi%2C+I'm+Gathsara+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer;Proficient+with+React.js+and+Nest.js;Skilled+in+DevOps+and+Microservices;3%2B+years+of+industry+experience;Constantly+learning+and+growing)](https://git.io/typing-svg)
@@ -23,36 +13,37 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 #### 💬 Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a> or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 #### 🎯 Keep Coding, Keep Exploring! 😊
 
-
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
 <a href="">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GathsaraH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GathsaraH&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-
-</br>
 </br>
 
 <div>
   
 ### 🔥 &nbsp; My Stats 
 
-<!--Streak-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GathsaraH&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
 
+</br>
 
 <div>
 
 ### 🧩 &nbsp; Random dev joke for you!
 <i></i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 </div>
+
+
 
 <div>
   
@@ -80,22 +71,17 @@ Feel free to explore, clone or fork projects, and contribute via issues or PRs. 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 </div>
 
-<!---<div align="center" 
-[![HitCount](http://hits.dwyl.com/GathsaraH/GathsaraH.svg)](http://hits.dwyl.com/GathsaraH/GathsaraH)
-</div>-->
+</br>
 
 <div>
   
 ### 🔭 &nbsp; Get in Touch
 
-<!--- <a href="https://www.instagram.com/">Instagram</a> 📷 -->
 <a href="https://www.linkedin.com/in/gathsara-umesh-0475241a5/">Facebook</a> 👤</br>
 <a href="https://www.linkedin.com/in/gathsara-umesh/">LinkedIn</a> 💼</br>
 <a href="mailto:umeshgathsara@gmail.com">E-mail</a> 📧
 </div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
-
 
